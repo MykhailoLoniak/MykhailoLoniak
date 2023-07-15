@@ -1,6 +1,6 @@
 Header
 
-About me/n
+About me\n
 My name is Mykhailo. I spent my adulthood in a small village. Since childhood, I have always been curious about how various mechanisms and technologies work. This became one of the reasons why I decided to pursue studies in mechanical engineering.
 
 After finishing school, I enrolled at the Lviv Polytechnic National University, specializing in mechanical engineering. There, I found answers to many of my questions and learned to apply the knowledge gained during lectures and practical classes.
