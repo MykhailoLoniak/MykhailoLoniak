@@ -11,3 +11,4 @@ Languages and Tools
 Follow Me
 [![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/MykhailoLoniak)
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/lonyakmisha?igshid=MzNlNGNkZWQ4Mg==)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](loniakmykhail@gmail.com)
