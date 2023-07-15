@@ -1,12 +1,11 @@
 Header
 
-About me
-Мене звати Михайло. Свій дорослий вік провів у маленькому селі. З дитинства мене завжди цікавило, як працюють різноманітні механізми та технології. Це стало однією з причин, чому після школи я вирішив навчатися у сфері машинобудування.
+About me`/n`
+My name is Mykhailo. I spent my adulthood in a small village. Since childhood, I have always been curious about how various mechanisms and technologies work. This became one of the reasons why I decided to pursue studies in mechanical engineering.
 
-Після закінчення школи, я вступив до Національного університету "Львівська політехніка" на факультет машинобудування. Там я знайшов відповіді на багато своїх запитань і навчився застосовувати на практиці знання, отримані на лекціях і практичних заняттях.
+After finishing school, I enrolled at the Lviv Polytechnic National University, specializing in mechanical engineering. There, I found answers to many of my questions and learned to apply the knowledge gained during lectures and practical classes.
 
-Упродовж років моїх студентських здобутків, я зосередився на вивченні різних технологій та мов програмування. Зокрема, я займався вивченням CSS, HTML та JavaScript, які дозволяють створювати зручні та красиві веб-сторінки. Також я захоплювався розробкою на React, що дозволило мені створювати більш складні та інтерактивні веб-додатки.
-
+Throughout my years as a student, I focused on studying different technologies and programming languages. Specifically, I delved into CSS, HTML, and JavaScript, which allowed me to create user-friendly and visually appealing web pages. Additionally, I developed an interest in React, enabling me to build more complex and interactive web applications.
 Languages and Tools
 ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
