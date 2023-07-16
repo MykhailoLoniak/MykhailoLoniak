@@ -21,7 +21,7 @@ Follow Me\
 My projects\
 
 <a href="https://mykhailoloniak.github.io/project/">
-  <img src="(https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator" width="auto" height=50px>
+  <img src="(https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator" width="auto" height="50">
 </a>
 
 [![Моя робота](https://example.com/my_photo.jpg)](https://example.com/my_work)
