@@ -19,3 +19,6 @@ Follow Me\
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](http://loniakmykhail@gmail.com)
 
 My projects
+[![calculator](https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png)](https://mykhailoloniak.github.io/project/)
+
+[![Моя робота](https://example.com/my_photo.jpg)](https://example.com/my_work)
