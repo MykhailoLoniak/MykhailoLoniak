@@ -21,8 +21,8 @@ Follow Me\
 My projects\
 
 <a href="https://mykhailoloniak.github.io/project/">
-Calculator JS
-  <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator"  height="50">
+  <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator"  height="50"><br/>
+  Calculator JS
 </a>
 
 [![Моя робота](https://example.com/my_photo.jpg)](https://example.com/my_work)
