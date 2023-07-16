@@ -21,7 +21,7 @@ Follow Me\
 My projects\
 
 <a href="https://mykhailoloniak.github.io/project/" target="_blank">
-  <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator"  height="50"><br/>
+  <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator"  height="100"><br/>
   Calculator JS
 </a>
 
