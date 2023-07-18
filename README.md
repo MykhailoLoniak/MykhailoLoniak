@@ -19,8 +19,8 @@ Follow Me\
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](http://loniakmykhail@gmail.com)
 
 My projects\
-<a href="https://mykhailoloniak.github.io/project/" target="blank">
-<img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator"  height="100"><br/>
+<a href="https://mykhailoloniak.github.io/project/" onclick="window.open(this.href); return false;">
+<img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator" height="100"><br/>
 Calculator JS
 </a>
 
