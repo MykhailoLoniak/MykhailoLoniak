@@ -18,11 +18,10 @@ Follow Me\
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/lonyakmisha?igshid=MzNlNGNkZWQ4Mg==)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](http://loniakmykhail@gmail.com)
 
-My projects\
-
+My projects
 <a href="https://mykhailoloniak.github.io/project/" target="blank">
-  <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator"  height="100"><br/>
-  Calculator JS
+<img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator"  height="100"><br/>
+Calculator JS
 </a>
 
 [![Моя робота](https://example.com/my_photo.jpg)](https://example.com/my_work)
