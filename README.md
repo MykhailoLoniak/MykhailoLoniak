@@ -18,35 +18,10 @@ Follow Me\
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/lonyakmisha?igshid=MzNlNGNkZWQ4Mg==)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](http://loniakmykhail@gmail.co)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .projects {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-        }
-        .project {
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="projects">
-        <div class="project">
-            <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
-                <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator" height="100"><br/>
-                Calculator JS
-            </a>
-        </div>
-        <div class="project">
-            <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
-                <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br/>
-                Tic-Tac-Toe
-            </a>
-        </div>
-        <!-- Додайте інші блоки проектів за потреби -->
-    </div>
-</body>
-</html>
+## My Projects
+
+[Calculator JS](https://mykhailoloniak.github.io/project/)
+![Calculator JS](https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png)
+
+[Tic-Tac-Toe](https://mykhailoloniak.github.io/xo/)
+![Tic-Tac-Toe](https://github.com/MykhailoLoniak/xo/blob/main/ico.png)
