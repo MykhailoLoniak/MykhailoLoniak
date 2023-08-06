@@ -28,17 +28,19 @@ Follow Me\
 
 ## My Projects
 
-<div style="display: flex; justify-content: flex-start; gap: 20px;">
-    <div>
-        <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
-            <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="Calculator JS" height="100"><br>
-            Calculator JS
-        </a>
-    </div>
-    <div>
-        <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
-            <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br>
-            Tic-Tac-Toe
-        </a>
-    </div>
-</div>
+<table>
+    <tr>
+        <td>
+            <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
+                <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="Calculator JS" height="100"><br>
+                Calculator JS
+            </a>
+        </td>
+        <td>
+            <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
+                <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br>
+                Tic-Tac-Toe
+            </a>
+        </td>
+    </tr>
+</table>
