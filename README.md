@@ -18,4 +18,16 @@ Follow Me\
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/lonyakmisha?igshid=MzNlNGNkZWQ4Mg==)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](http://loniakmykhail@gmail.com)
 
-My projects <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener"><img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator" height="100"><br/> Calculator JS</a> <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener"><img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br/> Tic-Tac-Toe</a>
+## My projects
+
+<div style="display: flex; gap: 20px;">
+  <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
+    <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator" height="100"><br/>
+    Calculator JS
+  </a>
+
+  <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
+    <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br/>
+    Tic-Tac-Toe
+  </a>
+</div>
