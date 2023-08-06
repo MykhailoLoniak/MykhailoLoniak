@@ -24,4 +24,7 @@ My projects\
 Calculator JS
 </a>
 
-[![Моя робота](https://example.com/my_photo.jpg)](https://example.com/my_work)
+<a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
+<img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="calculator" height="100"><br/>
+Calculator JS
+</a>
