@@ -22,9 +22,7 @@ My projects\
 <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
 <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="calculator" height="100"><br/>
 Calculator JS
-</a>
-
-<a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
-<img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="calculator" height="100"><br/>
-Calculator JS
+</a><a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
+<img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br/>
+Tic-Tac-Toe
 </a>
