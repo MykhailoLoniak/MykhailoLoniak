@@ -37,7 +37,7 @@ Follow Me\
         <td>
             <a href="https://mykhailoloniak.github.io/Bank/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/Bank/blob/main/Capture.PNG" alt="exchange rate of the National Bank" height="100"><br>
-                exchange <br>rate of the <br>National Bank
+              National Bank
             </a>
         </td>
     </tr>
