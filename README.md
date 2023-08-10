@@ -20,14 +20,6 @@ Follow Me\
 
 ## My Projects
 
-[Calculator JS](https://mykhailoloniak.github.io/project/)
-![Calculator JS](https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png)
-
-[Tic-Tac-Toe](https://mykhailoloniak.github.io/xo/)
-![Tic-Tac-Toe](https://github.com/MykhailoLoniak/xo/blob/main/ico.png)
-
-## My Projects
-
 <table>
     <tr>
         <td>
@@ -40,6 +32,12 @@ Follow Me\
             <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br>
                 Tic-Tac-Toe
+            </a>
+        </td>
+        <td>
+            <a href="https://mykhailoloniak.github.io/Bank/" target="_blank" rel="noopener">
+                <img src="https://github.com/MykhailoLoniak/Bank/blob/main/Capture.PNG" alt="exchange rate of the National Bank" height="100"><br>
+                exchange rate of the National Bank
             </a>
         </td>
     </tr>
