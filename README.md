@@ -24,8 +24,11 @@ Follow Me\
     <tr>
         <td>
             <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
-                <img src="https://mykhailoloniak.github.io/project/blob/main/calc.png" alt="Calculator JS" height="100"><br>
+                <img src="https://github.com/MykhailoLoniak/project/blob/main/calc.png" alt="Calculator JS" height="100"><br>
                 Calculator JS
+            </a>
+            <a href="https://github.com/MykhailoLoniak/project/blob/main/README.md" target="_blank" rel="noopener"></br>
+               README
             </a>
         </td>
         <td>
