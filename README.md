@@ -24,7 +24,7 @@ Follow Me\
     <tr>
         <td>
             <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
-                <img src="https://github.com/MykhailoLoniak/MykhailoLoniak/blob/main/calc.png" alt="Calculator JS" height="100"><br>
+                <img src="https://mykhailoloniak.github.io/project/blob/main/calc.png" alt="Calculator JS" height="100"><br>
                 Calculator JS
             </a>
         </td>
