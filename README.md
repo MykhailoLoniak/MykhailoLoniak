@@ -31,16 +31,19 @@ Follow Me\
         <td>
             <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br>
-                Tic-Tac-Toe
+                Tic-Tac-Toe 
+            </a>
+                <a href="https://github.com/MykhailoLoniak/xo/blob/main/README.md" target="_blank" rel="noopener"></br>
+               README
             </a>
         </td>
         <td>
             <a href="https://mykhailoloniak.github.io/Bank/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/Bank/blob/main/Capture.PNG" alt="exchange rate of the National Bank" height="100"><br>
               National Bank
+            </a>
               <a href="https://github.com/MykhailoLoniak/Bank/blob/main/README.md" target="_blank" rel="noopener"></br>
                README
-            </a>
             </a>
         </td>
     </tr>
