@@ -50,7 +50,7 @@ Follow Me\
             </a>
         </td>
         <td>
-            <a href="https://mykhailoloniak.github.io/Bank/" target="_blank" rel="noopener">
+            <a href="https://music-player-teal-two.vercel.app/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/music-player/blob/master/Capture.PNG" alt="Radiio" height="100"><br>
               radio
             </a>
