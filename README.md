@@ -52,7 +52,7 @@ Follow Me\
         <td>
             <a href="https://music-player-teal-two.vercel.app/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/music-player/blob/master/Capture.PNG" alt="Radiio" height="100"><br>
-              radio
+              Radio
             </a>
               <a href="https://github.com/MykhailoLoniak/music-player/blob/master/src/readme.md" target="_blank" rel="noopener"></br>
                README
