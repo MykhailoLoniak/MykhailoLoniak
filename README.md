@@ -34,7 +34,7 @@ Follow Me\
         <td>
             <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br>
-                Tic-Tac-Toe 
+                Tic-Tac-Toe JS 
             </a>
                 <a href="https://github.com/MykhailoLoniak/xo/blob/main/README.md" target="_blank" rel="noopener"></br>
                README
@@ -43,7 +43,7 @@ Follow Me\
         <td>
             <a href="https://mykhailoloniak.github.io/Bank/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/Bank/blob/main/Capture.PNG" alt="exchange rate of the National Bank" height="100"><br>
-              National Bank
+              National Bank JS
             </a>
               <a href="https://github.com/MykhailoLoniak/Bank/blob/main/README.md" target="_blank" rel="noopener"></br>
                README
@@ -52,7 +52,7 @@ Follow Me\
         <td>
             <a href="https://music-player-teal-two.vercel.app/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/music-player/blob/master/Capture.PNG" alt="Radiio" height="100"><br>
-              Radio
+              Radio React
             </a>
               <a href="https://github.com/MykhailoLoniak/music-player/blob/master/src/readme.md" target="_blank" rel="noopener"></br>
                README
