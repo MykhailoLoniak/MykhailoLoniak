@@ -23,7 +23,7 @@ Follow Me\
 <table>
     <tr>
         <td>
-            <a href="https://music-player-teal-two.vercel.app/" target="_blank" rel="noopener">
+            <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/project/blob/main/calc.png" alt="Calculator JS" height="100"><br>
                 Calculator JS
             </a>
