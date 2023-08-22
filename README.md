@@ -16,11 +16,22 @@ Languages and Tools\
 Follow Me\
 [![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/MykhailoLoniak)
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/lonyakmisha?igshid=MzNlNGNkZWQ4Mg==)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](http://loniakmykhail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](mailto:loniakmykhail@gmail.com)
 
 ## My Projects
 
 <table>
+    <tr>
+        <td>
+        <a href="https://portfolio-blue-one-43.vercel.app/" target="_blank" rel="noopener">
+                <img src="https://github.com/MykhailoLoniak/portfolio/blob/master/screencapture-portfolio-blue-one-43-vercel-app-2023-08-22-15_27_29.png" alt="Portfolio" height="100"><br>
+                Portfolio
+            </a>
+            <a href="https://github.com/MykhailoLoniak/project/blob/main/README.md" target="_blank" rel="noopener"></br>
+               README
+            </a>
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
