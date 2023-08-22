@@ -27,9 +27,6 @@ Follow Me\
                 <img src="https://github.com/MykhailoLoniak/portfolio/blob/master/screencapture-portfolio-blue-one-43-vercel-app-2023-08-22-15_27_29.png" alt="Portfolio" height="100"><br>
                 Portfolio
             </a>
-            <a href="https://github.com/MykhailoLoniak/project/blob/main/README.md" target="_blank" rel="noopener"></br>
-               README
-            </a>
         </td>
     </tr>
     <tr>
