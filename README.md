@@ -35,17 +35,11 @@ Follow Me\
                 <img src="https://github.com/MykhailoLoniak/project/blob/main/calc.png" alt="Calculator JS" height="100"><br>
                 Calculator JS
             </a>
-            <a href="https://github.com/MykhailoLoniak/project/blob/main/README.md" target="_blank" rel="noopener"></br>
-               README
-            </a>
         </td>
         <td>
             <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br>
                 Tic-Tac-Toe JS 
-            </a>
-                <a href="https://github.com/MykhailoLoniak/xo/blob/main/README.md" target="_blank" rel="noopener"></br>
-               README
             </a>
         </td>
         <td>
@@ -53,26 +47,17 @@ Follow Me\
                 <img src="https://github.com/MykhailoLoniak/Bank/blob/main/Capture.PNG" alt="exchange rate of the National Bank" height="100"><br>
               National Bank JS
             </a>
-              <a href="https://github.com/MykhailoLoniak/Bank/blob/main/README.md" target="_blank" rel="noopener"></br>
-               README
-            </a>
         </td>
         <td>
             <a href="https://music-player-teal-two.vercel.app/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/music-player/blob/master/Capture.PNG" alt="Radiio" height="100"><br>
               Radio React
             </a>
-              <a href="https://github.com/MykhailoLoniak/music-player/blob/master/src/readme.md" target="_blank" rel="noopener"></br>
-               README
-            </a>
         </td>
         <td>
             <a href="https://todo-list-orpin-psi.vercel.app/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/todo-list/blob/master/Capture.PNG" alt="Todo list" height="100"><br>
               Todo list
-            </a>
-              <a href="https://github.com/MykhailoLoniak/todo-list/blob/master/README.md" target="_blank" rel="noopener"></br>
-               README
             </a>
         </td>
     </tr>
