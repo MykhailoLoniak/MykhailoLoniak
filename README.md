@@ -18,13 +18,13 @@ Follow Me\
     <tr>
         <td>
         <a href="https://portfolio-blue-one-43.vercel.app/" target="_blank" rel="noopener">
-                <img src="https://github.com/MykhailoLoniak/Weather/blob/master/Capture.PNG" alt="Portfolio" height="100"><br>
+                <img src="https://github.com/MykhailoLoniak/portfolio/blob/master/screencapture-portfolio-blue-one-43-vercel-app-2023-08-22-15_27_29.png" alt="Portfolio" height="100"><br>
                 Portfolio
             </a>
         </td>
         <td>
         <a href="https://weather-eight-lyart.vercel.app/" target="_blank" rel="noopener">
-                <img src="https://github.com/MykhailoLoniak/portfolio/blob/master/screencapture-portfolio-blue-one-43-vercel-app-2023-08-22-15_27_29.png" alt="weather" height="100"><br>
+                <img src="https://github.com/MykhailoLoniak/Weather/blob/master/Capture.PNG" alt="weather" height="100"><br>
                 weather
             </a>
         </td>
