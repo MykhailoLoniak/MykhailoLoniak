@@ -28,6 +28,12 @@ Follow Me\
                 weather
             </a>
         </td>
+         <td>
+            <a href="https://music-player-teal-two.vercel.app/" target="_blank" rel="noopener">
+                <img src="https://github.com/MykhailoLoniak/music-player/blob/master/Capture.PNG" alt="Radiio" height="100"><br>
+              Radio React
+            </a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -46,12 +52,6 @@ Follow Me\
             <a href="https://mykhailoloniak.github.io/Bank/" target="_blank" rel="noopener">
                 <img src="https://github.com/MykhailoLoniak/Bank/blob/main/Capture.PNG" alt="exchange rate of the National Bank" height="100"><br>
               National Bank JS
-            </a>
-        </td>
-        <td>
-            <a href="https://music-player-teal-two.vercel.app/" target="_blank" rel="noopener">
-                <img src="https://github.com/MykhailoLoniak/music-player/blob/master/Capture.PNG" alt="Radiio" height="100"><br>
-              Radio React
             </a>
         </td>
         <td>
