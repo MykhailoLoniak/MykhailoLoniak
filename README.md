@@ -1,7 +1,7 @@
 About me\
 My name is Mykhailo. I spent my childhood in a small village. Since childhood, I have always been curious about how various mechanisms and technologies work. This became one of the reasons why I decided to study mechanical engineering. After finishing school, I enrolled at the National University "Lviv Polytechnic" in the field of mechanical engineering. There, I found answers to many of my questions and learned to apply the knowledge gained during lectures and practical sessions. Later, I became fascinated with CSS, HTML, and JavaScript, which allows me to create user-friendly and visually appealing web pages. Additionally, I developed an interest in React, which enabled me to build complex and interactive web applications.
 
-## Programming & markup languages:
+<!-- ## Programming & markup languages:
 
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
@@ -10,11 +10,11 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 ![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
 ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
-![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
+![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js) -->
 
-#### **Technical Skills**
+#### Technical Skills
 
-**Frontend Development:**
+## Frontend Development:
 
 - **Markup Languages:**
   ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
@@ -27,20 +27,24 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
   ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
   ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
 
-**Backend Development:**
+## Backend Development:## 
 
 - **Programming Language:**
   ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
 - **Databases:**
-  ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
   ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
 
-**Tools and Technologies:**
+## Tools and Technologies:
 
-- **Version Control:** Git
+- **Version Control:**
+  ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
 - **Package Managers:** npm, yarn
+  ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
+  ![yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
 - **Build Tools:** Webpack, Vite
+  ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
+  ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=Vite)
 - **CSS Preprocessors:** SCSS
 - **API Development:** REST, GraphQL
 
