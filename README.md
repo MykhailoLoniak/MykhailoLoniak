@@ -7,7 +7,7 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
-![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=NodeJs)
+![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
 
 Follow Me\
 [![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/MykhailoLoniak)
