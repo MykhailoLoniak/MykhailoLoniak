@@ -27,7 +27,7 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
   ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
   ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
 
-## Backend Development:## 
+## Backend Development:
 
 - **Programming Language:**
   ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
@@ -39,10 +39,10 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 
 - **Version Control:**
   ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
-- **Package Managers:** npm, yarn
+- **Package Managers:**
   ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
   ![yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
-- **Build Tools:** Webpack, Vite
+- **Build Tools:**
   ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
   ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=Vite)
 - **CSS Preprocessors:** SCSS
