@@ -22,7 +22,7 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
   ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
   ![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss) -->
 - **Programming Languages:**  
-[![Programming Languages](https://skillicons.dev/icons?i=Js,Ts&theme=light)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=JavaScript,TypeScript&theme=light)](https://skillicons.dev)
   <!-- ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
   ![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript) -->
 - **Libraries & Frameworks:**  
