@@ -17,9 +17,10 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 ## Frontend Development:
 
 - **Markup Languages:**  
-  ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss&theme=light)](https://skillicons.dev)
+  <!-- ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
-  ![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)
+  ![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss) -->
 - **Programming Languages:**  
   ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
   ![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
