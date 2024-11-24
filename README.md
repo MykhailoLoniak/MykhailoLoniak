@@ -42,7 +42,7 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 - **Package Managers:**
   ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
   ![yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
-- **Build Tools:**
+- **Build Tools:** /
   ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
   ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=Vite)
 - **CSS Preprocessors:** SCSS
