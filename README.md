@@ -3,10 +3,13 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 
 ## Programming & markup languages:
 
-![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
+![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)
 ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
+![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
 ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
 
 Follow Me\
