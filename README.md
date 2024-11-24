@@ -17,24 +17,26 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 ## Frontend Development:
 
 - **Markup Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss&theme=light)](https://skillicons.dev)
+[![Markup Languages](https://skillicons.dev/icons?i=html,css,scss&theme=light)](https://skillicons.dev)
   <!-- ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
   ![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss) -->
 - **Programming Languages:**  
-[![My Skills](https://skillicons.dev/icons?i=Js,Ts&theme=light)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=Js,Ts&theme=light)](https://skillicons.dev)
   <!-- ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
   ![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript) -->
 - **Libraries & Frameworks:**  
-  ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
-  ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
+[![Libraries & Framework](https://skillicons.dev/icons?i=react,nextJs&theme=light)](https://skillicons.dev)
+  <!-- ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+  ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js) -->
 
 ## Backend Development:
+
 - **Programming Language:**  
 [![My Skills](https://skillicons.dev/icons?i=node.js&theme=light)](https://skillicons.dev)
   <!-- ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js) -->
 - **Databases:**  
-[![My Skills](https://skillicons.dev/icons?i=sql,postgreSQL&theme=light)](https://skillicons.dev)
+[![Programming Language](https://skillicons.dev/icons?i=sql,postgreSQL&theme=light)](https://skillicons.dev)
   <!-- ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL) -->
 
