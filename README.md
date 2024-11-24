@@ -1,11 +1,13 @@
 About me\
 My name is Mykhailo. I spent my childhood in a small village. Since childhood, I have always been curious about how various mechanisms and technologies work. This became one of the reasons why I decided to study mechanical engineering. After finishing school, I enrolled at the National University "Lviv Polytechnic" in the field of mechanical engineering. There, I found answers to many of my questions and learned to apply the knowledge gained during lectures and practical sessions. Later, I became fascinated with CSS, HTML, and JavaScript, which allows me to create user-friendly and visually appealing web pages. Additionally, I developed an interest in React, which enabled me to build complex and interactive web applications.
 
-Languages and Tools\
+## Programming & markup languages:
+
 ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+![NodeJs](https://img.shields.io/badge/NodeJs-black?style=for-the-badge&logo=NodeJs)
 
 Follow Me\
 [![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/MykhailoLoniak)
