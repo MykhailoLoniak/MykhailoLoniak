@@ -12,7 +12,40 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
 ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
 
-Follow Me\
+#### **Technical Skills**
+
+**Frontend Development:**
+
+- **Markup Languages:**
+  ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
+  ![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)
+- **Programming Languages:**
+  ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
+  ![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
+- **Libraries & Frameworks:**
+  ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
+  ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
+
+**Backend Development:**
+
+- **Programming Language:**
+  ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
+- **Databases:**
+  ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
+  ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
+
+**Tools and Technologies:**
+
+- **Version Control:** Git
+- **Package Managers:** npm, yarn
+- **Build Tools:** Webpack, Vite
+- **CSS Preprocessors:** SCSS
+- **API Development:** REST, GraphQL
+
+## Follow Me
+
 [![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/MykhailoLoniak)
 [![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/lonyakmisha?igshid=MzNlNGNkZWQ4Mg==)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](mailto:loniakmykhail@gmail.com)
