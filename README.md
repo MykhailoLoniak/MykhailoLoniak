@@ -1,64 +1,50 @@
 About me\
 My name is Mykhailo. I spent my childhood in a small village. Since childhood, I have always been curious about how various mechanisms and technologies work. This became one of the reasons why I decided to study mechanical engineering. After finishing school, I enrolled at the National University "Lviv Polytechnic" in the field of mechanical engineering. There, I found answers to many of my questions and learned to apply the knowledge gained during lectures and practical sessions. Later, I became fascinated with CSS, HTML, and JavaScript, which allows me to create user-friendly and visually appealing web pages. Additionally, I developed an interest in React, which enabled me to build complex and interactive web applications.
 
-<!-- ## Programming & markup languages:
+## **Technical Skills**
 
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
-![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)
-![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
-![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
-![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
-![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js) -->
-
-#### Technical Skills
-
-## Frontend Development:
+**Frontend Development:**
 
 - **Markup Languages:**  
-[![Markup Languages](https://skillicons.dev/icons?i=html,css,scss&theme=light)](https://skillicons.dev)
-  <!-- ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
-  ![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss) -->
-- **Programming Languages:**  
-[![Programming Languages](https://skillicons.dev/icons?i=JavaScript,TypeScript&theme=light)](https://skillicons.dev)
-  <!-- ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
-  ![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript) -->
-- **Libraries & Frameworks:**  
-[![Libraries & Framework](https://skillicons.dev/icons?i=react,nextJs&theme=light)](https://skillicons.dev)
-  <!-- ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
-  ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js) -->
+  [![Markup Languages](https://skillicons.dev/icons?i=html,css,scss&theme=light)](https://skillicons.dev)
 
-## Backend Development:
+- **Programming Languages:**  
+  [![Programming Languages](https://skillicons.dev/icons?i=js,ts&theme=light)](https://skillicons.dev)
+
+- **Libraries & Frameworks:**  
+  [![Libraries & Framework](https://skillicons.dev/icons?i=react,nextjs&theme=light)](https://skillicons.dev)
+
+## **Backend Development:**
 
 - **Programming Language:**  
-[![My Skills](https://skillicons.dev/icons?i=node.js&theme=light)](https://skillicons.dev)
-  <!-- ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js) -->
-- **Databases:**  
-[![Programming Language](https://skillicons.dev/icons?i=sql,postgreSQL&theme=light)](https://skillicons.dev)
-  <!-- ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL) -->
+  [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 
-## Tools and Technologies:
+- **Databases:**  
+  [![Programming Language](https://skillicons.dev/icons?i=postgresql&theme=light)](https://skillicons.dev)
+
+## **Tools and Technologies:**
 
 - **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
+  [![Version Control](https://skillicons.dev/icons?i=git&theme=light)](https://skillicons.dev)
 - **Package Managers:**  
-  ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
-  ![yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
+  [![Package Managers](https://skillicons.dev/icons?i=npm,yarn&theme=light)](https://skillicons.dev)
 - **Build Tools:**  
-  ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
-  ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=Vite)
-- **API Development:** REST, GraphQL  
-  ![REST](https://img.shields.io/badge/REST-black?style=for-the-badge&logo=REST)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL)
+  [![Package Managers](https://skillicons.dev/icons?i=webpack,vite&theme=light)](https://skillicons.dev)
+- **API Development:**  
+  [![Package Managers](https://skillicons.dev/icons?i=graphql&theme=light)](https://skillicons.dev)
 
-## Follow Me
+## **Follow Me**
 
-[![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/MykhailoLoniak)
-[![instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/lonyakmisha?igshid=MzNlNGNkZWQ4Mg==)
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail)](mailto:loniakmykhail@gmail.com)
+<a href="mailto:loniakmykhail@gmail.com" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" width="48">
+</a>
+<a href="https://instagram.com/lonyakmisha?igshid=MzNlNGNkZWQ4Mg==" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" width="48">
+</a>
+<a href="https://t.me/MykhailoLoniak" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-telegram-is-a-cloud-based-instant-messaging-and-voice-over-ip-service-logo-shadow-tal-revivo.png" alt="Telegram" width="48">
+</a>
+
 
 ## My Projects
 
