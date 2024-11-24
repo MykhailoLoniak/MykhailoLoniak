@@ -16,37 +16,38 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 
 ## Frontend Development:
 
-- **Markup Languages:**
+- **Markup Languages:**  
   ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/Css-black?style=for-the-badge&logo=CSs3)
   ![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)
-- **Programming Languages:**
+- **Programming Languages:**  
   ![JS](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
   ![TS](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)
-- **Libraries & Frameworks:**
+- **Libraries & Frameworks:**  
   ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React)
   ![NextJs](https://img.shields.io/badge/Next.Js-black?style=for-the-badge&logo=Next.Js)
 
 ## Backend Development:
 
-- **Programming Language:**
+- **Programming Language:**  
   ![NodeJs](https://img.shields.io/badge/Node.Js-black?style=for-the-badge&logo=Node.Js)
-- **Databases:**
+- **Databases:**  
   ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
 
 ## Tools and Technologies:
 
-- **Version Control:**
+- **Version Control:**  
   ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)
-- **Package Managers:**
+- **Package Managers:**  
   ![npm](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)
   ![yarn](https://img.shields.io/badge/yarn-black?style=for-the-badge&logo=yarn)
-- **Build Tools:** /
+- **Build Tools:**  
   ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack)
   ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=Vite)
-- **CSS Preprocessors:** SCSS
-- **API Development:** REST, GraphQL
+- **API Development:** REST, GraphQL  
+  ![REST](https://img.shields.io/badge/REST-black?style=for-the-badge&logo=REST)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL)
 
 ## Follow Me
 
