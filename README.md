@@ -47,10 +47,10 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 
 ## My Projects
 
-<div style='display: flex; gap: 20px'>
+<div style='display: flex; gap: 20px; flex-wrap: wrap;'>
 <div>
   <h4>Todo list</h4>
-  <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <div style="display: flex; align-items: center; gap: 10px; ">
     <img src="https://cdn.icon-icons.com/icons2/1416/PNG/512/basic-todo-pencil_97991.png" width="50px" alt="Todo list">
     <div>
       - <a href="https://t.me/MykhailoLoniak" style="margin-right: 10px;">
