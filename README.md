@@ -88,7 +88,7 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
   </tr>
   <tr>
     <td>
-      <h4>React phone catalog</h4>
+      <h4>Electronics Online Store </h4>
       <img src="https://img.icons8.com/dotty/80/shop-local.png" width="50px" alt="Todo list">
     </td>
     <td>Electronics Online Store 
@@ -109,51 +109,3 @@ TypeScript </td>
 </table>
  
 </div>
-    <!-- <table>
-        <tr>
-            <td>
-            <a href="https://portfolio-blue-one-43.vercel.app/" target="_blank" rel="noopener">
-                    <img src="https://github.com/MykhailoLoniak/portfolio/blob/master/screencapture-portfolio-blue-one-43-vercel-app-2023-08-22-15_27_29.png" alt="Portfolio" height="100"><br>
-                    Portfolio
-                </a>
-            </td>
-            <td>
-            <a href="https://weather-eight-lyart.vercel.app/" target="_blank" rel="noopener">
-                    <img src="https://github.com/MykhailoLoniak/Weather/blob/master/Capture.PNG" alt="weather" height="100"><br>
-                    weather
-                </a>
-            </td>
-             <td>
-                <a href="https://music-player-teal-two.vercel.app/" target="_blank" rel="noopener">
-                    <img src="https://github.com/MykhailoLoniak/music-player/blob/master/Capture.PNG" alt="Radiio" height="100"><br>
-                  Radio React
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://mykhailoloniak.github.io/project/" target="_blank" rel="noopener">
-                    <img src="https://github.com/MykhailoLoniak/project/blob/main/calc.png" alt="Calculator JS" height="100"><br>
-                    Calculator JS
-                </a>
-            </td>
-            <td>
-                <a href="https://mykhailoloniak.github.io/xo/" target="_blank" rel="noopener">
-                    <img src="https://github.com/MykhailoLoniak/xo/blob/main/ico.png" alt="Tic-Tac-Toe" height="100"><br>
-                    Tic-Tac-Toe JS
-                </a>
-            </td>
-            <td>
-                <a href="https://mykhailoloniak.github.io/Bank/" target="_blank" rel="noopener">
-                    <img src="https://github.com/MykhailoLoniak/Bank/blob/main/Capture.PNG" alt="exchange rate of the National Bank" height="100"><br>
-                  National Bank JS
-                </a>
-            </td>
-            <td>
-                <a href="https://todo-list-orpin-psi.vercel.app/" target="_blank" rel="noopener">
-                    <img src="https://github.com/MykhailoLoniak/todo-list/blob/master/Capture.PNG" alt="Todo list" height="100"><br>
-                  Todo list
-                </a>
-            </td>
-        </tr>
-    </table> -->
