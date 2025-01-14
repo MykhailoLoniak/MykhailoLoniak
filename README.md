@@ -1,5 +1,5 @@
 About me\
-My name is Mykhailo. I spent my childhood in a small village. Since childhood, I have always been curious about how various mechanisms and technologies work. This became one of the reasons why I decided to study mechanical engineering. After finishing school, I enrolled at the National University "Lviv Polytechnic" in the field of mechanical engineering. There, I found answers to many of my questions and learned to apply the knowledge gained during lectures and practical sessions. Later, I became fascinated with CSS, HTML, and JavaScript, which allows me to create user-friendly and visually appealing web pages. Additionally, I developed an interest in React, which enabled me to build complex and interactive web applications.
+My name is Mykhailo. I spent my childhood in a small village. Since childhood, I have always been curious about how various mechanisms and technologies work. This curiosity became one of the reasons why I decided to study mechanical engineering. After finishing school, I enrolled at the National University "Lviv Polytechnic" in the field of mechanical engineering. There, I found answers to many of my questions and learned to apply the knowledge I gained during lectures and practical sessions. Later, I became fascinated with web development, including CSS, HTML, and JavaScript, which allowed me to create user-friendly and visually appealing web pages. Soon after, I discovered React, which enabled me to build complex and interactive web applications. Recently, I completed a Full Stack course at Mate Academy, where I gained modern knowledge and hands-on experience in creating fully functional web applications, both on the client side (Frontend) and the server side (Backend). This course helped me enhance my skills in JavaScript, React, Node.js, and databases, as well as understand all stages of the software development process.
 
 ## **Technical Skills**
 
@@ -47,63 +47,66 @@ My name is Mykhailo. I spent my childhood in a small village. Since childhood, I
 
 ## My Projects
 
-<div style='display: flex; gap: 20px; flex-wrap: wrap;'>
-<div>
-  <h4>Todo list</h4>
-  <div style="display: flex; align-items: center; gap: 10px; ">
-    <img src="https://cdn.icon-icons.com/icons2/1416/PNG/512/basic-todo-pencil_97991.png" width="50px" alt="Todo list">
-    <div>
-      - <a href="https://t.me/MykhailoLoniak" style="margin-right: 10px;">
-        <span>DEMO LINK</span>
-      </a><br>
-      - <a href="https://t.me/MykhailoLoniak" style="margin-right: 10px;">
-        <span>GitHub</span>
-      </a><br>
-      - <a href="https://skillicons.dev">
-        Technologies:
+<table border="1" cellspacing="0" cellpadding="10">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Links</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>
+      <h4>Todo</h4>
+      <img src="https://cdn.icon-icons.com/icons2/1416/PNG/512/basic-todo-pencil_97991.png" width="50px" alt="Todo list">
+    </td>
+    <td>Manage your tasks with ease using this Todo list application.</td>
+    <td>
+      <a href="https://mykhailoloniak.github.io/todo/">DEMO LINK</a><br>
+      <a href="https://github.com/MykhailoLoniak/todo?tab=readme-ov-file">GitHub</a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,javascript,react,typescript,tailwind&theme=light" alt="My Skills" width="100">
       </a>
-    </div>
-  </div>
-</div>
-
-<div>
-  <h4>Todo list</h4>
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn.icon-icons.com/icons2/1416/PNG/512/basic-todo-pencil_97991.png" width="50px" alt="Todo list">
-    <div>
-      - <a href="https://t.me/MykhailoLoniak" style="margin-right: 10px;">
-        <span>DEMO LINK</span>
-      </a><br>
-      - <a href="https://t.me/MykhailoLoniak" style="margin-right: 10px;">
-        <span>GitHub</span>
-      </a><br>
-      - <a href="https://skillicons.dev">
-        Technologies:
-        <img src="https://skillicons.dev/icons?i=html,javascript,react,typescript,tailwind&theme=light" alt="My Skills" width="100">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>Layout landing page</h4>
+      <img src="https://img.icons8.com/ios/50/template.png" width="50px" alt="Todo list">
+    </td>
+    <td>A website for a tech company using HTML, CSS (Sass), and JavaScript.</td>
+    <td>
+      <a href="https://mykhailoloniak.github.io/layout_landing-page">DEMO LINK</a><br>
+      <a href="https://github.com/MykhailoLoniak/layout_landing-page">GitHub</a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,javascript,scss&theme=light" alt="My Skills" width="100">
       </a>
-    </div>
-  </div>
-</div>
- 
-<div>
-  <h4>Todo list</h4>
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://cdn.icon-icons.com/icons2/1416/PNG/512/basic-todo-pencil_97991.png" width="50px" alt="Todo list">
-    <div>
-      - <a href="https://t.me/MykhailoLoniak" style="margin-right: 10px;">
-        <span>DEMO LINK</span>
-      </a><br>
-      - <a href="https://t.me/MykhailoLoniak" style="margin-right: 10px;">
-        <span>GitHub</span>
-      </a><br>
-      - <a href="https://skillicons.dev">
-        Technologies:
-        <img src="https://skillicons.dev/icons?i=html,javascript,react,typescript,tailwind&theme=light" alt="My Skills" width="100">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>React phone catalog</h4>
+      <img src="https://img.icons8.com/dotty/80/shop-local.png" width="50px" alt="Todo list">
+    </td>
+    <td>Electronics Online Store 
+Utilized frontend technologies: HTML, CSS, Sass, 
+      JavaScript, React, React Router, Git for version control,
+TypeScript </td>
+    <td>
+      <a href="https://mykhailoloniak.github.io/react_phone-catalog">DEMO LINK</a><br>
+      <a href="https://github.com/MykhailoLoniak/react_phone-catalog/tree/master">GitHub</a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,scss,javascript,react,typescript&theme=light" alt="My Skills" width="100">
       </a>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+  <!-- Повторіть цей <tr> для інших проектів -->
+</table>
  
 </div>
     <!-- <table>
