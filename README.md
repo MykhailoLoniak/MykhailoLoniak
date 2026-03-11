@@ -109,5 +109,5 @@ TypeScript </td>
   </tr>
   <!-- Повторіть цей <tr> для інших проектів -->
 </table>
- 
+ <a href="https://freelancehunt.com/freelancer/mishalois.html?from=shield&r=jMXgz" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1643469/type/rating?style=for-the-badge&lang=uk&showName=1" alt="Freelancehunt — простий та чесний фриланс"></a>
 </div>
